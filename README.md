@@ -9,7 +9,7 @@ Faculty of Science, Chiang Mai University CS'62 Looking for a job position Softw
 * 🌍  I'm based in Chiang Mai, Thailand
 * ✉️  You can contact me at [phawat.watson@gmail.com](mailto:phawat.watson@gmail.com)
 * 🧠  I'm learning react, NextJS
-* ⚡  If you offer me the chance to work, I'll do everything in my power to take it and not let you down.
+* ⚡  If you offer me the chance to work, I'll do everything I can to take it and not let you down.
 
 ### Skills
 
